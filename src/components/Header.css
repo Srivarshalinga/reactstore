@@ -1,6 +1,8 @@
-.App-Header_Row{
+.App-Header-Row{
     display: flex;
     justify-content: space-between;
-    background-color: #6f6868;
-    padding: 5px;
+    background-color: #7f7777;
+    padding: 10px;
+    color:white;
+    margin-bottom: 40px;
 }
