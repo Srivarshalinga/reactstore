@@ -1,8 +1,9 @@
-export default function Footer(){
-    return(
-        <div>
-            <hr></hr>
-            <p>@Copyright 2025. All rights reserved.</p>
-        </div>
-    )
+import React from 'react'
+
+export default function Footer() {
+  return (
+    <div style={{backgroundColor:'silver'}}>
+      @Copyright 2025. All rights reserved.
+    </div>
+  )
 }
